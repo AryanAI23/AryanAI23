@@ -3,7 +3,7 @@
 
 #🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_23_8)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_23.8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan-Mujawar)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%236364FF.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@Aryan-Mujawar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmujawar435@gmail.com)
