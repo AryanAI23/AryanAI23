@@ -2,7 +2,7 @@
 👋 Hi, I'm Aryan Mujawar<br> 🤖 AI/ML Engineering Student<br> 🚀 Skills & Technologies :<br>🐍 Python<br>🌐 HTML<br>🎨 CSS<br>⚡ JavaScript<br>🤖 Machine Learning<br>*Build real-world projects<br>*Improve my problem-solving skills<br>*Explore AI & Machine Learning<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_23.8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aryan Mujawar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aryan Mujawar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanmujawar435@gmail.com) 
 
 # 💻 Tech Stack:
